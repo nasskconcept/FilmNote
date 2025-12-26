@@ -1,4 +1,4 @@
-# Movie Rating App 🎬
+# Note films app 🎬
 
 ## Description
 Note films app est une application web simple permettant de noter et d’organiser ses films préférés.  
