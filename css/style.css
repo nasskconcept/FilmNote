@@ -16,7 +16,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    color: #5a2e1f;
+    color: #8C142A;
     padding: 20px;
     display: flex;
     flex-direction: column;
@@ -28,6 +28,9 @@ header {
 }
 
 header h1 {
+    font-family: "BBH Bogle", sans-serif;
+    font-weight: 600;
+    font-style: normal;
     font-size: 2rem;
     margin-bottom: 10px;
 }
@@ -80,12 +83,12 @@ form input, form select, form button {
 
 form button {
     margin-top: 15px;
-    background-color: #5a2e1f;
+    background-color: #8C142A;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #8B4513; 
+    background-color: #8C142A; 
 }
